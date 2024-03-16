@@ -21,10 +21,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br>
+<div style="display:flex; flex-direction:row">
 <p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/xautik/count.svg" />
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=xautik&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+</div>
 <div style="display:flex; flex-direction:row">
 <span align=left> 
   
