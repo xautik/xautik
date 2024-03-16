@@ -33,5 +33,5 @@
 <span align=right>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xautik&theme=onedark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 </span>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xautik&theme=onedark)](https://github.com/devangi2000/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xautik&theme=onedark)](https://github.com/xautik/github-readme-stats)
 </div>
