@@ -2,7 +2,7 @@
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 - 🔭 I’m currently working on <s>REDACTED</s> <br>
-- 💬 Ask me about Web Dev (js,php,css and frameworks), <br> &nbsp &nbsp Graphics Design, IT,App development and any Computer Science related stuff <br>
+- 💬 Ask me about Web Dev (js,php,css and frameworks), <br> &nbsp &nbsp Graphics Design, IT,App development and <br> &nbsp &nbsp any Computer Science related stuff <br>
 - 📫 Email me at [avocarterp@gmail.com](avocarterp@gmail.com). <br>
 - 📫 Contact me at: t.me/@xautik
   
