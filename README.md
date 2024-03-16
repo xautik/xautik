@@ -4,7 +4,7 @@
 
 - 📫 Email me at [avocarterp@gmail.com](avocarterp@gmail.com).
 - 📫 Contact me at: t.me/@xautik
--  🔭 I’m currently working on <h3><s>REDACTED</s></h3>
+-  🔭 I’m currently working on <s>REDACTED</s>
 - 💬 Ask me about Web Dev(js,php,css and frameworks), Graphics Design, IT, App development and any Computer Science related stuff
 
 
