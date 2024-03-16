@@ -28,6 +28,9 @@
 <div style="display:flex; flex-direction:row">
   
 ![Kayodee's github stats](https://github-readme-stats.vercel.app/api?username=xautik&show_icons=true&hide_border=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xautik&theme=onedark)](https://github.com/devangi2000/github-readme-stats)
+<span align=left>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xautik&theme=onedark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+</span>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xautik&theme=onedark)](https://github.com/devangi2000/github-readme-stats)
 </div>
