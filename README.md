@@ -22,6 +22,11 @@
 
 <br>
 
-![Kayodee's github stats](https://github-readme-stats.vercel.app/api?username=xautik&show_icons=true&hide_border=true)
+![Kayodee's github stats](https://github-readme-stats.vercel.app/api?username=xautik&show_icons=true&hide_border=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xautik)](https://github.com/devangi2000/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xautik&theme=onedark)](https://github.com/devangi2000/github-readme-stats)
+
+<p> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/xautik/count.svg" />
+</p>
