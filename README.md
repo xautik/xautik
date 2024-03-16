@@ -5,6 +5,7 @@
 - 💬 Ask me about Web Dev(js,php,css and frameworks), Graphics Design, IT, App development and any Computer Science related stuff <br>
 - 📫 Email me at [avocarterp@gmail.com](avocarterp@gmail.com). <br>
 - 📫 Contact me at: t.me/@xautik
+  
 #
 **Languages and Tools:**  
 
@@ -24,3 +25,4 @@
 ![Kayodee's github stats](https://github-readme-stats.vercel.app/api?username=xautik&show_icons=true&hide_border=true)
 
 <br>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xautik)](https://github.com/devangi2000/github-readme-stats)
