@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on <s>REDACTED</s> <br>
 - 💬 Ask me about Web Dev <br> &nbsp &nbsp (js,php,css and frameworks), <br> &nbsp &nbsp Graphics Design, IT,App development and <br> &nbsp &nbsp any Computer Science related stuff <br>
 - 📫 Email me at [avocarterp@gmail.com](avocarterp@gmail.com). <br>
-- 📫 Contact me at: t.me/@xautik
   
 #
 **Languages and Tools:**  
