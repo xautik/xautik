@@ -41,5 +41,5 @@
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xautik&theme=dark&hide_border=true)](https://github.com/xautik/github-readme-stats)
 #
-[!](https://github-contributions-api.jogruber.de/v4/xautik?format=nested)
+[![p]](https://github-contributions-api.jogruber.de/v4/xautik?format=nested)
 
