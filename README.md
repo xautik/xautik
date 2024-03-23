@@ -26,7 +26,7 @@
   <img src="https://profile-counter.glitch.me/xautik/count.svg" />
 </p> 
   
-[![](https://visitcount.itsvg.in/api?id=xautik&label=Profile%20Views&theme=dark)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=xautik&label=Profile%20Views)](https://visitcount.itsvg.in)
 #
 <div style="display:flex; flex-direction:row">
 <span align=left> 
