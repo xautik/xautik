@@ -39,5 +39,5 @@
 </div>
 
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xautik&theme=dark&hide_border=true&width=100&height=50)](https://github.com/xautik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xautik&theme=dark&hide_border=true)](https://github.com/xautik/github-readme-stats)
 
