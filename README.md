@@ -31,13 +31,13 @@
 <div style="display:flex; flex-direction:row">
 <span align=left> 
   
-![Kayodee's github stats](https://github-readme-stats.vercel.app/api?username=xautik&show_icons=true&hide_border=true&theme=onedark)
+![Kayodee's github stats](https://github-readme-stats.vercel.app/api?username=xautk&show_icons=true&hide_border=true&theme=onedark)
 </span>
 <span align=right>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xautik&theme=onedark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xautik&theme=onedark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6_hide_border="true")
 </span>
 </div>
 
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xautik&theme=onedark)](https://github.com/xautik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xautik&theme=onedark_hide_border="true")](https://github.com/xautik/github-readme-stats)
 
