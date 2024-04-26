@@ -25,11 +25,11 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/xautik/count.svg" />
 </p> 
-  
+ <!-- 
 [![](https://visitcount.itsvg.in/api?id=xautik&label=Profile%20Views&theme=dark&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 #
 <div style="display:flex; flex-direction:row">
-<span align=left> 
+<span align=left> -->
   
 ![Kayodee's github stats](https://github-readme-stats.vercel.app/api?username=xautik&show_icons=true&hide_border=true&theme=dark)
 </span>
